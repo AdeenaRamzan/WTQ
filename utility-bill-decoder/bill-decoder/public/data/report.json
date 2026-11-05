@@ -1,0 +1,1088 @@
+{
+ "generated_at": "2026-10-10T13:11:44",
+ "bills": [
+  {
+   "bill_id": "IESCO_0002",
+   "image": "images/IESCO_0002.jpg",
+   "level1": {
+    "provider": "IESCO",
+    "tariff": "A-1a(01)",
+    "sanctioned_load_kw": 1,
+    "bill_month": "2026-08",
+    "reading_date": "2026-08-08",
+    "issue_date": "2026-08-09",
+    "due_date": "2026-08-24",
+    "previous_reading": 5949.08,
+    "current_reading": 6625.57,
+    "units_consumed": 676,
+    "charges": [
+     {
+      "type": "energy",
+      "amount": 29807
+     }
+    ],
+    "total_charges": 29807,
+    "taxes": [],
+    "total_taxes": 8516,
+    "current_bill": 38323,
+    "arrears": 31203,
+    "payable_within_due_date": 69897,
+    "payable_after_due_date": 72878
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any evidence of net-metering, such as import or export meter readings."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in October 2025, with 656 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You were charged 371 PKR for fuel adjustment (FPA) in June 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you do not pay by the due date, a late payment surcharge of 1,491 PKR will be added to your bill."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "The bill does not provide data for August 2025, so a direct year-over-year comparison for this month is not possible."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 309.8 units. This month you consumed 676 units, which is 118.2% higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 321.8 more units in the summer months compared to the winter months."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "No, you have not paid every bill. Out of the 11 months shown, you have only made payments for 6 of them."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your units consumed have gone up over the last 3 months, with a total increase of 258 units."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on the 12-month trend, you should expect to consume approximately 401 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside approximately 21,765 PKR each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consumed the same 525 units as last month, your bill would be approximately 29,762 PKR, based on your current cost per unit of 56.69 PKR."
+    }
+   ]
+  },
+  {
+   "bill_id": "IESCO_0003",
+   "image": "images/IESCO_0003.png",
+   "level1": {
+    "provider": "IESCO",
+    "tariff": "A-1A(01)",
+    "sanctioned_load_kw": 3,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-27",
+    "issue_date": "2026-09-28",
+    "due_date": "2026-10-12",
+    "previous_reading": 1156.14,
+    "current_reading": 1213.9,
+    "units_consumed": 58,
+    "charges": [
+     {
+      "type": "energy",
+      "amount": 2636
+     },
+     {
+      "type": "subsidy",
+      "amount": -1393
+     }
+    ],
+    "total_charges": 1243,
+    "taxes": [],
+    "total_taxes": 234,
+    "current_bill": 1477,
+    "arrears": 0,
+    "payable_within_due_date": 1649,
+    "payable_after_due_date": 1773
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any evidence of net-metering, such as import or export meter readings."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "September 2025 had the highest consumption with 75 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 172 for the fuel adjustment (FPA) for the month of July 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you pay after the due date, a late payment surcharge of 62 will be added, bringing your total payable amount to 1773."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "No, you are consuming fewer units this month (58) compared to the same month last year (75), which is a decrease of 17 units."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 40.8 units. This month's consumption of 58 units is 42% higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 16.7 more units in the summer months (June-August) compared to the winter months (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for the last 12 months."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone up over the last 3 months, with a net change of 1 unit."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on the 12-month trend, you should expect to consume approximately 56 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside an estimated 892 per month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consume the same 49 units as last month, your bill would be approximately 1277, based on your previous billing record."
+    }
+   ]
+  },
+  {
+   "bill_id": "IESCO_0005",
+   "image": "images/IESCO_0005.png",
+   "level1": {
+    "provider": "IESCO",
+    "tariff": "A-1a(01)",
+    "sanctioned_load_kw": 4,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-13",
+    "issue_date": "2026-09-14",
+    "due_date": "2026-09-24",
+    "previous_reading": 3624.46,
+    "current_reading": 3801.12,
+    "units_consumed": 177,
+    "charges": [
+     {
+      "type": "energy",
+      "amount": 7711
+     },
+     {
+      "type": "subsidy",
+      "amount": -1002
+     }
+    ],
+    "total_charges": 6709,
+    "taxes": [],
+    "total_taxes": 1295,
+    "current_bill": 8004,
+    "arrears": 0,
+    "payable_within_due_date": 8603,
+    "payable_after_due_date": 9274
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not show any evidence of net-metering, such as import or export meter readings."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in August 2026, with 246 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 599 for the fuel adjustment (FPA) for the month of July 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you do not pay by the due date, a late payment surcharge of 671 will be added to your bill, bringing the total payable to 9274."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "Yes, you are consuming 5 more units this month (177 units) compared to the same month last year (172 units)."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 156.9 units. Your current consumption of 177 units is 12.8% (or 20.1 units) higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 92.3 more units in the summer months (June-August) compared to the winter months (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "No, you have not paid every bill. Out of the 12 months shown, you have only made payments for 11 months."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone up over the last 3 months, with a total increase of 58 units."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on the 12-month trend, you should expect to consume approximately 226 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside 4352 each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consume the same 246 units as last month, your bill would be approximately 11926, based on your previous billing record."
+    }
+   ]
+  },
+  {
+   "bill_id": "KESC_0002",
+   "image": "images/KESC_0002.png",
+   "level1": {
+    "provider": "KE",
+    "tariff": "A1-R",
+    "sanctioned_load_kw": 3,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-04",
+    "issue_date": "2026-09-08",
+    "due_date": "2026-09-22",
+    "previous_reading": 9935,
+    "current_reading": 10094,
+    "units_consumed": 159,
+    "charges": [
+     {
+      "type": "fixed",
+      "amount": 900
+     },
+     {
+      "type": "energy",
+      "amount": 4596.69
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": -274.99
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": 10.66
+     },
+     {
+      "type": "fpa",
+      "amount": 613.31
+     },
+     {
+      "type": "surcharge",
+      "amount": 513.57
+     }
+    ],
+    "total_charges": 6359.24,
+    "taxes": [
+     {
+      "type": "electricity_duty",
+      "amount": 81.89
+     },
+     {
+      "type": "gst",
+      "amount": 1159.4
+     },
+     {
+      "type": "municipal_tax",
+      "amount": 20
+     }
+    ],
+    "total_taxes": 1261.29,
+    "current_bill": 7620.53,
+    "arrears": -0.41,
+    "payable_within_due_date": 7621,
+    "payable_after_due_date": 8257
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard electricity connection. The bill does not contain any labels or data indicating net-metering or solar export/import activity."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in July 2026, with 298 units consumed."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 613 PKR for the fuel adjustment (FPA), which applies to the month of July 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you pay after the due date, your bill increases from 7,621 PKR to 8,257 PKR. This includes a 5% late payment surcharge of 318 PKR or a 10% surcharge of 636 PKR depending on the payment timing."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "No, you are consuming fewer units this month (159 units) compared to the same month last year (176 units), which is a decrease of 17 units."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 171.8 units. This month's consumption of 159 units is 12.8 units (or 7.5%) lower than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "You consume an average of 162 more units in the summer months (June-August) compared to the winter months (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for which a payment record exists in the provided history, and all bills are currently marked as paid."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your units consumed have gone down over the last 3 months, with a total decrease of 139 units from July to September."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on the 12-month trend, you should expect to consume approximately 231 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside approximately 12,551 PKR each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consume the same 235 units as you did last month, your estimated bill would be approximately 11,180 PKR, based on the billing data from August 2026."
+    }
+   ]
+  },
+  {
+   "bill_id": "KESC_0003",
+   "image": "images/KESC_0003.png",
+   "level1": {
+    "provider": "KE",
+    "tariff": "A1-R",
+    "sanctioned_load_kw": 2,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-07",
+    "issue_date": "2026-09-10",
+    "due_date": "2026-09-24",
+    "previous_reading": 16538,
+    "current_reading": 16997,
+    "units_consumed": 459,
+    "charges": [
+     {
+      "type": "fixed",
+      "amount": 1000
+     },
+     {
+      "type": "energy",
+      "amount": 17878.05
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": -705.63
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": 53.83
+     },
+     {
+      "type": "fpa",
+      "amount": 1280.14
+     },
+     {
+      "type": "surcharge",
+      "amount": 1482.57
+     }
+    ],
+    "total_charges": 20988.96,
+    "taxes": [
+     {
+      "type": "electricity_duty",
+      "amount": 299.83
+     },
+     {
+      "type": "gst",
+      "amount": 3831.98
+     },
+     {
+      "type": "municipal_tax",
+      "amount": 125
+     }
+    ],
+    "total_taxes": 4256.81,
+    "current_bill": 25245.77,
+    "arrears": -0.2,
+    "payable_within_due_date": 25246,
+    "payable_after_due_date": 27345
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any evidence of net-metering or solar export/import data."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The month with the highest consumption in the last 12 months was July 2026, with 622 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 1,280 PKR for fuel adjustment (FPA), which applies to the month of July 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you do not pay by the due date, a 5% surcharge of 1,049 PKR or a 10% surcharge of 2,099 PKR may be added, bringing your total payable amount to 27,345 PKR."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "Yes, you are consuming more units this September (459 units) compared to the same month last year (374 units), an increase of 85 units."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 345 units. This month's consumption of 459 units is 33% higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "You consume an average of 430 more units in the summer (June-August) compared to the winter (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for which a payment was required, as indicated by your history of 3 paid bills out of 3 billed months."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone down over the last 3 months, decreasing by a total of 163 units from July to September."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on your consumption trends, you should expect to consume approximately 552 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your electricity costs evenly across the year, you should set aside approximately 32,032 PKR each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consumed the same 576 units as last month, your bill would be approximately 30,854 PKR, based on the amount billed for August 2026."
+    }
+   ]
+  },
+  {
+   "bill_id": "KESC_0005",
+   "image": "images/KESC_0005.png",
+   "level1": {
+    "provider": "KE",
+    "tariff": "A1-R",
+    "sanctioned_load_kw": 8,
+    "bill_month": "2026-04",
+    "reading_date": "2026-04-01",
+    "issue_date": "2026-04-06",
+    "due_date": "2026-04-20",
+    "previous_reading": 36,
+    "current_reading": 274,
+    "units_consumed": 286,
+    "charges": [
+     {
+      "type": "fixed",
+      "amount": 2700
+     },
+     {
+      "type": "energy",
+      "amount": 8218.14
+     },
+     {
+      "type": "energy",
+      "amount": 2248.8
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": 100.22
+     },
+     {
+      "type": "fpa",
+      "amount": 290.39
+     },
+     {
+      "type": "surcharge",
+      "amount": 923.78
+     }
+    ],
+    "total_charges": 14481.33,
+    "taxes": [
+     {
+      "type": "electricity_duty",
+      "amount": 176.72
+     },
+     {
+      "type": "gst",
+      "amount": 2638.45
+     }
+    ],
+    "total_taxes": 2815.17,
+    "current_bill": 17296.5,
+    "arrears": -0.47,
+    "payable_within_due_date": 17297,
+    "payable_after_due_date": 18745
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any evidence of net-metering, such as import or export meter readings."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in June 2025, with 438 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You were charged 290 PKR for fuel adjustment (FPA) in February 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you pay after the due date, a 5% surcharge of 724 PKR or a 10% surcharge of 1,448 PKR may be applied, bringing your total payable amount to 18,745 PKR."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "Yes, you consumed 286 units this April, which is 72 units more than the 214 units consumed in April of last year."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 257.5 units. This month's consumption of 286 units is 11.1% (or 28.5 units) higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 131 more units in the summer (331 units) compared to the winter (200 units)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid all 3 bills that were issued during the 12-month period shown."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone up over the last 3 months, with a total increase of 82 units from February to April 2026."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on historical trends, you can estimate a consumption of 225 units for next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside approximately 11,497 PKR each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consumed the same 185 units as last month, your estimated bill would be approximately 11,189 PKR, based on your current cost of 60.48 PKR per unit."
+    }
+   ]
+  },
+  {
+   "bill_id": "KESC_0006",
+   "image": "images/KESC_0006.png",
+   "level1": {
+    "provider": "KE",
+    "tariff": "A1-R",
+    "sanctioned_load_kw": 3,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-04",
+    "issue_date": "2026-09-08",
+    "due_date": "2026-09-22",
+    "previous_reading": 31850,
+    "current_reading": 32221,
+    "units_consumed": 371,
+    "charges": [
+     {
+      "type": "fixed",
+      "amount": 1200
+     },
+     {
+      "type": "energy",
+      "amount": 13526.66
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": -641.64
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": 24.86
+     },
+     {
+      "type": "fpa",
+      "amount": 1294.54
+     },
+     {
+      "type": "surcharge",
+      "amount": 1198.33
+     }
+    ],
+    "total_charges": 16602.75,
+    "taxes": [
+     {
+      "type": "electricity_duty",
+      "amount": 231.04
+     },
+     {
+      "type": "gst",
+      "amount": 3030.08
+     },
+     {
+      "type": "municipal_tax",
+      "amount": 100
+     }
+    ],
+    "total_taxes": 3361.12,
+    "current_bill": 19963.87,
+    "arrears": -0.31,
+    "payable_within_due_date": 19964,
+    "payable_after_due_date": 21624
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any evidence of net-metering or solar export/import data."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in June 2026, with 838 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 1,295 PKR for fuel adjustment (FPA), which applies to the month of July 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you pay after the due date, your bill will increase to 21,624 PKR. This includes a 5% late payment surcharge of 830 PKR or a 10% surcharge of 1,660 PKR depending on the payment timing."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "Yes, you consumed 371 units this September, which is 27 units more than the 344 units consumed in September last year."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 365.5 units. This month's consumption of 371 units is 1.5% higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 473 more units in the summer months (June-August) compared to the winter months (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for the months where billing data was provided."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone down over the last 3 months, decreasing by a total of 258 units."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on historical trends, you should expect to consume approximately 485 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside approximately 40,050 PKR each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consumed the same 455 units as last month, your bill would be approximately 24,484 PKR, based on your current cost per unit of 53.81 PKR."
+    }
+   ]
+  },
+  {
+   "bill_id": "LESCO_0001",
+   "image": "images/LESCO_0001.png",
+   "level1": {
+    "provider": "LESCO",
+    "tariff": "A-1A(01)",
+    "sanctioned_load_kw": 3,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-15",
+    "issue_date": "2026-09-18",
+    "due_date": "2026-09-28",
+    "previous_reading": 9919,
+    "current_reading": 10107,
+    "units_consumed": 188,
+    "charges": [
+     {
+      "type": "energy",
+      "amount": 7348
+     },
+     {
+      "type": "subsidy",
+      "amount": -566
+     }
+    ],
+    "total_charges": 6782,
+    "taxes": [],
+    "total_taxes": 1314,
+    "current_bill": 8096,
+    "arrears": 0,
+    "payable_within_due_date": 8567,
+    "payable_after_due_date": 9245
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any evidence of net-metering, such as export meter readings or solar-related credits."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in March 2026, with 201 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 471 for the fuel adjustment (FPA) for the month of July."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you do not pay by the due date, a late payment surcharge of 678 will be added to your bill, bringing the total payable to 9245."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "Yes, you are consuming more units than in the same month last year. You consumed 188 units this month compared to 179 units in September 2025, an increase of 9 units."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 185.7 units. Your current consumption of 188 units is 1.3% higher than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "You consume an average of 0.7 more units in the summer (June-August) compared to the winter (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for the last 12 months."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your units consumed have gone up over the last 3 months, with a total change of 6 units."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on the 12-month trend, you should expect to consume approximately 185 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your electricity costs evenly across the year, you should set aside 5510 each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consume the same 185 units as last month, your bill would be approximately 7895, based on the billed amount from August 2026."
+    }
+   ]
+  },
+  {
+   "bill_id": "LESCO_0002",
+   "image": "images/LESCO_0002.png",
+   "level1": {
+    "provider": "LESCO",
+    "tariff": "A-1A(01)",
+    "sanctioned_load_kw": 5,
+    "bill_month": "2026-09",
+    "reading_date": "2026-09-15",
+    "issue_date": "2026-09-18",
+    "due_date": "2026-09-28",
+    "previous_reading": 42159,
+    "current_reading": 42576,
+    "units_consumed": 417,
+    "charges": [
+     {
+      "type": "energy",
+      "amount": 19733
+     }
+    ],
+    "total_charges": 19733,
+    "taxes": [],
+    "total_taxes": 3833,
+    "current_bill": 23566,
+    "arrears": 0,
+    "payable_within_due_date": 24372,
+    "payable_after_due_date": 26345
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard electricity connection. The bill does not contain any evidence of net-metering, such as import/export meter readings or solar-related credits."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months occurred in October 2025, with 829 units consumed."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 806 PKR for fuel adjustment (FPA), which applies to the month of July 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you do not pay by the due date, a late payment surcharge of 987 PKR will be added, bringing your total payable amount to 26,345 PKR."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "Yes, you are consuming more units this month (417 units) compared to the same month last year (30 units), which is an increase of 387 units."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 232.9 units. Your current consumption of 417 units is 79% higher than your 12-month average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 235.3 more units in the summer months (June–August) than in the winter months (December–February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for the last 12 months."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone up over the last 3 months, increasing by a total of 181 units from June to August 2026."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on the 12-month trend, you should expect to consume approximately 333 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside approximately 9,475 PKR each month, which is your average monthly bill amount over the past year."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consume the same 426 units as last month, your bill would be approximately 23,655 PKR, based on the billing amount from August 2026."
+    }
+   ]
+  },
+  {
+   "bill_id": "LESCO_0008",
+   "image": "images/LESCO_0008.png",
+   "level1": {
+    "provider": "LESCO",
+    "tariff": "A-1a(01)",
+    "sanctioned_load_kw": 2,
+    "bill_month": "2026-04",
+    "reading_date": "2026-04-15",
+    "issue_date": "2026-04-20",
+    "due_date": "2026-04-29",
+    "previous_reading": 6529,
+    "current_reading": 6618,
+    "units_consumed": 89,
+    "charges": [
+     {
+      "type": "energy",
+      "amount": 938.5
+     },
+     {
+      "type": "meter_rent",
+      "amount": 193.6
+     },
+     {
+      "type": "surcharge",
+      "amount": 38.27
+     },
+     {
+      "type": "quarterly_adjustment",
+      "amount": 31.19
+     },
+     {
+      "type": "fixed",
+      "amount": 400
+     }
+    ],
+    "total_charges": 1601.56,
+    "taxes": [
+     {
+      "type": "electricity_duty",
+      "amount": 14.54
+     },
+     {
+      "type": "gst",
+      "amount": 256
+     },
+     {
+      "type": "gst",
+      "amount": 35
+     },
+     {
+      "type": "electricity_duty",
+      "amount": 2.9
+     }
+    ],
+    "total_taxes": 308.44,
+    "current_bill": 1678.5,
+    "arrears": null,
+    "payable_within_due_date": 1910,
+    "payable_after_due_date": 2051
+   },
+   "level2": [
+    {
+     "question_id": "Q1",
+     "question": "Is this a net-metered (solar) connection or a standard connection? How did you tell?",
+     "answer": "This is a standard connection. The bill does not contain any labels or data rows indicating net-metering or solar export/import activity."
+    },
+    {
+     "question_id": "Q2",
+     "question": "Which month in the last 12 months had the highest units consumed?",
+     "answer": "The highest consumption in the last 12 months was in June 2025, with 194 units."
+    },
+    {
+     "question_id": "Q3",
+     "question": "How much fuel adjustment am I being charged (shown as FPA or FCA on the bill), and for which month?",
+     "answer": "You are being charged 194 PKR for fuel adjustment (FPA), which applies to the month of February 2026."
+    },
+    {
+     "question_id": "Q4",
+     "question": "If I don't pay on time, what late payment surcharges will be added?",
+     "answer": "If you pay after the due date, you will be charged a late payment surcharge of 71 PKR, bringing your total payable amount to 2,051 PKR."
+    },
+    {
+     "question_id": "Q5",
+     "question": "Am I consuming more units than in the same month last year?",
+     "answer": "No, you are consuming fewer units this month (89 units) compared to the same month last year (103 units in April 2025), which is a decrease of 14 units."
+    },
+    {
+     "question_id": "Q6",
+     "question": "What are my average monthly units consumed, and how does this month compare?",
+     "answer": "Your average monthly consumption is 145 units. This month's consumption of 89 units is 39% lower than your average."
+    },
+    {
+     "question_id": "Q7",
+     "question": "How many more units do I consume in summer (June-August) than in winter (December-February)?",
+     "answer": "On average, you consume 42 more units in the summer months (June-August) than in the winter months (December-February)."
+    },
+    {
+     "question_id": "Q8",
+     "question": "Looking at the payments for the 12 months shown on the bill, have I been paying every bill?",
+     "answer": "Yes, you have paid every bill for the last 12 months."
+    },
+    {
+     "question_id": "Q9",
+     "question": "Have my units consumed gone up or down over the last 3 months?",
+     "answer": "Your consumption has gone down over the last 3 months, with a total change of -29 units."
+    },
+    {
+     "question_id": "Q10",
+     "question": "Based on the 12 months trend, how many units should I expect to consume next month?",
+     "answer": "Based on historical trends, you should expect to consume approximately 148 units next month."
+    },
+    {
+     "question_id": "Q11",
+     "question": "If I wanted to spread my electricity cost evenly across the year, how much should I set aside each month?",
+     "answer": "To spread your costs evenly, you should set aside approximately 1,892 PKR each month, which is your average monthly bill amount."
+    },
+    {
+     "question_id": "Q12",
+     "question": "If I consume the same units as last month, what would my bill be roughly?",
+     "answer": "If you consume the same 139 units as last month, your bill would be approximately 3,033 PKR, based on the billing amount from March 2026."
+    }
+   ]
+  }
+ ]
+}

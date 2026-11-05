@@ -1,0 +1,27 @@
+# Environment and API keys
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+cache/
+logs/
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+
+# Binaries, heavy archives & temporary files
+*.exe
+*.zip
+DEMO.mp4
+raw-screenshot.png
+frontend-shot.png
